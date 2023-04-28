@@ -8,19 +8,19 @@ youtube直播
 
 viva購物2台，https://raw.githubusercontent.com/sem3060/ymk/main/04.m3u8
 
-東森採購1台, https://raw.githubusercontent.com/sem3060/ymk/main/05.m3u8
+東森購物1台, https://raw.githubusercontent.com/sem3060/ymk/main/05.m3u8
 
 TaiwanPlus, https://raw.githubusercontent.com/sem3060/ymk/main/06.m3u8
 
 台視新聞，https://raw.githubusercontent.com/sem3060/ymk/main/09.m3u8
 
-迪士尼少年，https://raw.githubusercontent.com/sem3060/ymk/main/23.m3u8
+Disney Junior，https://raw.githubusercontent.com/sem3060/ymk/main/23.m3u8
 
 momokids親子台，https://raw.githubusercontent.com/sem3060/ymk/main/24.m3u8
 
 YOYO TV, https://raw.githubusercontent.com/sem3060/ymk/main/25.m3u8
 
-東森採購2台, https://raw.githubusercontent.com/sem3060/ymk/main/34.m3u8
+東森購物2台, https://raw.githubusercontent.com/sem3060/ymk/main/34.m3u8
 
 momo購物2台，https://raw.githubusercontent.com/sem3060/ymk/main/35.m3u8
 
@@ -28,7 +28,7 @@ momo購物2台，https://raw.githubusercontent.com/sem3060/ymk/main/35.m3u8
 
 大愛二台，https://raw.githubusercontent.com/sem3060/ymk/main/47.m3u8
 
-対宇新聞台，https://raw.githubusercontent.com/sem3060/ymk/main/48.m3u8
+寰宇新聞台，https://raw.githubusercontent.com/sem3060/ymk/main/48.m3u8
 
 中天新聞台，https://raw.githubusercontent.com/sem3060/ymk/main/52.m3u8
 
