@@ -10,7 +10,7 @@ viva購物2台,https://raw.githubusercontent.com/sem3060/ymk/main/04.m3u8
 
 東森購物1台,https://raw.githubusercontent.com/sem3060/ymk/main/05.m3u8
 
-豬哥會社,https://raw.githubusercontent.com/sem3060/ymk/main/06.m3u8
+TaiwanPlus,https://raw.githubusercontent.com/sem3060/ymk/main/06.m3u8
 
 台視新聞,https://raw.githubusercontent.com/sem3060/ymk/main/09.m3u8
 
