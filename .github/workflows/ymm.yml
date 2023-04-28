@@ -522,6 +522,26 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=gm-57AcpZhQ)
         EOL		
+        # j24 大阪国際空港
+    - name: Get j24.m3u8
+      run: |
+        touch ./j24.m3u8
+        sudo cat >./j24.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=QUCq3tBoyK8)
+        EOL		
+        # j25 博多駅
+    - name: Get j25.m3u8
+      run: |
+        touch ./j25.m3u8
+        sudo cat >./j25.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=bHRaXxyvgU0)
+        EOL	
     - name: git add
       run: |
         git add -A
