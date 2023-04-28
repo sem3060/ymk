@@ -95,3 +95,7 @@ viva購物1台,https://raw.githubusercontent.com/sem3060/ymk/main/58.m3u8
 羽田空港,https://raw.githubusercontent.com/sem3060/ymk/main/j22.m3u8
 
 国立天文台,https://raw.githubusercontent.com/sem3060/ymk/main/j23.m3u8
+
+大阪国際空港,https://raw.githubusercontent.com/sem3060/ymk/main/j24.m3u8
+
+博多駅,https://raw.githubusercontent.com/sem3060/ymk/main/j25.m3u8
