@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1682686915/ei/Y29LZIh8z5mx8g-o5LnIDA/ip/13.83.13.224/id/d8X_G4NyMbk.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr3---sn-o097znsl.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B-QaRb7-VFnIJlBGYxdeZxD5eEE/vprv/1/playlist_type/DVR/mh/Gd/mm/44/mn/sn-o097znsl/ms/lva/mv/u/mvi/3/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1682664815/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgbMlkfmXv4GVbipRn5EvA2E1uTcovA1sD_-V4wiBXpeUCIFU9k8ixvV5QXexYNaDGtt565E4iIEv3T1Q0rizXk2hO/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgP9xh8tiONsAxpOeSmADmPSawuF8DXcQTBbSg2goZKIYCIB9Sufod43jlSVBgomMyTqcI5XMAWrWm6BwqWJwi8JTN/playlist/index.m3u8
+EOL		
+# 24 momokids親子台
