@@ -90,7 +90,7 @@ viva購物1台,https://raw.githubusercontent.com/sem3060/ymk/main/58.m3u8
 
 日本平夢,https://raw.githubusercontent.com/sem3060/ymk/main/j20.m3u8
 
-北九州市,https://raw.githubusercontent.com/sem3060/ymk/main/j21.m3u8
+台場海浜公園,https://raw.githubusercontent.com/sem3060/ymk/main/j21.m3u8
 
 羽田空港,https://raw.githubusercontent.com/sem3060/ymk/main/j22.m3u8
 
