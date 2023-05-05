@@ -492,7 +492,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=2d0yO_QN1Iw)
         EOL	
-        # j21 北九州市
+        # j21 台場海浜公園
     - name: Get j21.m3u8
       run: |
         touch ./j21.m3u8
@@ -500,7 +500,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=8UmtKvBz8vg)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=dJZBqTeC-h8)
         EOL 
         # j22 羽田空港
     - name: Get j22.m3u8
@@ -541,6 +541,26 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=bHRaXxyvgU0)
+        EOL	
+        # j26 長崎空港
+    - name: Get j26.m3u8
+      run: |
+        touch ./j26.m3u8
+        sudo cat >./j26.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=CrxynLVl7Ss)
+        EOL		
+        # j27 新千歳空港
+    - name: Get j27.m3u8
+      run: |
+        touch ./j27.m3u8
+        sudo cat >./j27.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=Azbdr5jbN6o)
         EOL	
     - name: git add
       run: |
