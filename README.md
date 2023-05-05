@@ -99,3 +99,8 @@ viva購物1台,https://raw.githubusercontent.com/sem3060/ymk/main/58.m3u8
 大阪国際空港,https://raw.githubusercontent.com/sem3060/ymk/main/j24.m3u8
 
 博多駅,https://raw.githubusercontent.com/sem3060/ymk/main/j25.m3u8
+
+長崎空港,https://raw.githubusercontent.com/sem3060/ymk/main/j26.m3u8
+
+新千歳空港,https://raw.githubusercontent.com/sem3060/ymk/main/j27.m3u8
+
