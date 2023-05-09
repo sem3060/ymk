@@ -12,7 +12,23 @@ viva購物2台,https://raw.githubusercontent.com/sem3060/ymk/main/04.m3u8
 
 TaiwanPlus,https://raw.githubusercontent.com/sem3060/ymk/main/06.m3u8
 
+桐瑛虎尾電視,https://raw.githubusercontent.com/sem3060/ymk/main/07.m3u8
+
+海豚綜合台,https://raw.githubusercontent.com/sem3060/ymk/main/08.m3u8
+
 台視新聞,https://raw.githubusercontent.com/sem3060/ymk/main/09.m3u8
+
+萬秀豬王,https://raw.githubusercontent.com/sem3060/ymk/main/10.m3u8
+
+新兵日記,https://raw.githubusercontent.com/sem3060/ymk/main/11.m3u8
+
+歡喜玉玲瓏,https://raw.githubusercontent.com/sem3060/ymk/main/12.m3u8
+
+MIT台灣誌,https://raw.githubusercontent.com/sem3060/ymk/main/13.m3u8
+
+我們這一家,https://raw.githubusercontent.com/sem3060/ymk/main/14.m3u8
+
+正德電視,https://raw.githubusercontent.com/sem3060/ymk/main/15.m3u8
 
 Disney Junior,https://raw.githubusercontent.com/sem3060/ymk/main/23.m3u8
 
@@ -103,4 +119,3 @@ viva購物1台,https://raw.githubusercontent.com/sem3060/ymk/main/58.m3u8
 長崎空港,https://raw.githubusercontent.com/sem3060/ymk/main/j26.m3u8
 
 新千歳空港,https://raw.githubusercontent.com/sem3060/ymk/main/j27.m3u8
-
