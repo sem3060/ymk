@@ -26,7 +26,7 @@ TaiwanPlus,https://raw.githubusercontent.com/sem3060/ymk/main/06.m3u8
 
 MIT台灣誌,https://raw.githubusercontent.com/sem3060/ymk/main/13.m3u8
 
-綜藝大集合,https://raw.githubusercontent.com/sem3060/ymk/main/14.m3u8
+第一名網路電視,https://raw.githubusercontent.com/sem3060/ymk/main/14.m3u8
 
 正德電視,https://raw.githubusercontent.com/sem3060/ymk/main/15.m3u8
 
