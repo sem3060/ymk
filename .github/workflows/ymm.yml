@@ -100,7 +100,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=Ma6op4TcVuE)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=pvksDkwccX0)
         EOL
         # 09 台視新聞
     - name: Get 09.m3u8
