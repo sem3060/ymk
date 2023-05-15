@@ -470,7 +470,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=SThyjXJ6xC4)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=Mm9XUA5ASdk)
         EOL		
         # j11 富士山中伊豆
     - name: Get j11.m3u8
@@ -490,7 +490,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=xzyCWsc-wJE)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=qdVvly6pVhA)
         EOL			
         # j13 函館山
     - name: Get j12.m3u8
@@ -641,7 +641,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=Azbdr5jbN6o)
-        EOL	
+        EOL		
     - name: git add
       run: |
         git add -A
@@ -650,3 +650,4 @@ jobs:
       run: |
         git commit -m "links are updated"
         git push
+
