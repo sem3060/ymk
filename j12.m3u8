@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1684161930/ei/KvFhZI3nHaKy2_gP3tWviAE/ip/40.84.182.75/id/qdVvly6pVhA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-q4fl6nsk.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B7guxfi2M_cO35qONL-PkC2BimQ/vprv/1/playlist_type/DVR/initcwndbps/5023750/mh/j8/mm/44/mn/sn-q4fl6nsk/ms/lva/mv/m/mvi/1/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246,51000022/mt/1684140033/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgAKqd7Vy98x2HAsqJxCyikieNjJ_Qkhbv5TtIXYAfZpECIQDmNA1bpEYOEQs3o8k-YqUUEArwpqyNhC-Ufdpf7vQZHA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgZws2Tag3vTM-D9QijidCtmi-btAY8-pUqTp41S8zwLgCIQCOpEHFPfpJvKf9puS7RvN4s-BoQP-CQsDxqj9pZ5aDOg%3D%3D/playlist/index.m3u8
 EOL			
 # j13 函館山
