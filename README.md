@@ -1,4 +1,4 @@
-youtube直播
+youtube
 
 中視新聞台,https://raw.githubusercontent.com/sem3060/ymk/main/01.m3u8
 
