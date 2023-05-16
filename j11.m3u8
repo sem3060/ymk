@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1684292550/ei/Zu9jZOugA82esfIPur6haA/ip/13.88.101.192/id/q5T3DxdzLs0.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-n4v7snse.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B0Z5DytQW9aFmaUBLcIT8RGG3cQ/vprv/1/playlist_type/DVR/mh/7F/mm/44/mn/sn-n4v7snse/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1684269800/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgCJdOmgDNyYlI1tdL9JN6n1QM7YzClcmFDAPp6Ctne6gCIGbzwd8UE5HT515akfaRJShgRuUb6W3ff3TlWrkF8-Jk/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgDZIJosLWA9EMZiJ1wSZGXfxk9SB_0v51ZOYo-DYG320CIAF7zJsS9GsVXKfBI_9oeGanJdyqHH-TF8EASeRVO8ms/playlist/index.m3u8
 EOL	
 # j12 富士山精進湖
