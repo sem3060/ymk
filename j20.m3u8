@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1685968579/ei/Y4J9ZI-ZAY-pkwbVyqeoDg/ip/20.171.134.167/id/qdVvly6pVhA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-a5msenl7.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B7kkAQ2l1rSnhMECkS0LBF_Z0vE/vprv/1/playlist_type/DVR/mh/j8/mm/44/mn/sn-a5msenl7/ms/lva/mv/u/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362687/beids/24350017/mt/1685946510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgTNzQ5I-j2Zw-dgF7pfVKO_9He1157xgAJKZFGM5gKv0CIB7I00hc5cOHQiG6tAHRjKB8FFfeWVo17FOFy2qoItmV/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgZo71MYUYUb2OfJdnBeC1arqlIaY-cB7eHIlHaDIvFpMCIQCqP_aR5qfXoEnAPTc16aPhHsYm2ItY2XvpqKIqQ6T31A%3D%3D/playlist/index.m3u8
 EOL	
 # j21 台場海浜公園
