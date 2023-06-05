@@ -570,7 +570,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=2d0yO_QN1Iw)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=qdVvly6pVhA)
         EOL	
         # j21 台場海浜公園
     - name: Get j21.m3u8
