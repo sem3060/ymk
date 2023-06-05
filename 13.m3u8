@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1685966850/ei/ont9ZJGSLJLBkgbP_67oDA/ip/20.172.43.80/id/EioaxQiKvyE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-a5msen7l.googlevideo.com/spc/qEK7B4VzN2GUwTOCiXiCCQadwxBH7PM/vprv/1/playlist_type/LIVE/mh/FD/mm/44/mn/sn-a5msen7l/ms/lva/mv/u/mvi/5/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350017/mt/1685944836/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgCpIXjTWF3b6N4dbFTg4CVbDk8UMTINbwhP1UGp6KX80CIQC3A8EXX98p7koKEtHfzev7iJ8T15BHG-xfpIcf7qKFHw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgHYJNJN3C5EIrkP5XFX7fhk96XC-dEYTvcR69k9ec5XQCIAi8IV8S-0Axh3Rj4RpNmDdIwyovOTBOs5AW-XpugxqL/playlist/index.m3u8
 EOL	
 # 14 第一名網路電視
