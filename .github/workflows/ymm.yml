@@ -90,7 +90,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=h1tnWXG3ArE)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=h7YxZIEoxUg)
         EOL
         # 08海豚綜合台
     - name: Get 08.m3u8
@@ -392,7 +392,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=LR7i5_pkJBg)
         EOL
-        # j3 東京六本木
+        # j3 東京西武新宿駅 
     - name: Get j3.m3u8
       run: |
         touch ./j3.m3u8
@@ -400,7 +400,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=Uf2iLWzBpUI)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=lA6TaaMGgDo)
         EOL
         # j4 東京新宿歌舞伎町
     - name: Get j4.m3u8
@@ -462,7 +462,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=Sv9hcJ3k5h4)
         EOL
-        # j10 富士本栖湖
+        # j10 秋葉原
     - name: Get j10.m3u8
       run: |
         touch ./j10.m3u8
@@ -470,7 +470,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=Mm9XUA5ASdk)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=3p6ekFrTZHw)
         EOL		
         # j11 富士山中伊豆
     - name: Get j11.m3u8
@@ -532,7 +532,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=4Ek_1UULqq8)
         EOL
-        # j17 熱海
+        # j17東伊豆.熱川.片瀬海岸
     - name: Get j17.m3u8
       run: |
         touch ./j17.m3u8
@@ -540,7 +540,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=AyD6fzns6u8)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=lKlUUfJM4vQ)
         EOL
         # j18 能登鹿島駅
     - name: Get j18.m3u8
@@ -560,9 +560,9 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=YQMk-L2RPwc)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=D_10e8Eo01o)
         EOL 
-        # j20 日本平夢
+        # j20 富士山平夢 
     - name: Get j20.m3u8
       run: |
         touch ./j20.m3u8
@@ -570,7 +570,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=qdVvly6pVhA)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=kg_3_1iAe3I)
         EOL	
         # j21 台場海浜公園
     - name: Get j21.m3u8
