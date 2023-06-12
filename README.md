@@ -70,7 +70,7 @@ viva購物1台,https://raw.githubusercontent.com/sem3060/ymk/main/58.m3u8
 
 恵比寿駅前,https://raw.githubusercontent.com/sem3060/ymk/main/j2.m3u8
 
-東京六本木,https://raw.githubusercontent.com/sem3060/ymk/main/j3.m3u8
+東京西武新宿駅 ,https://raw.githubusercontent.com/sem3060/ymk/main/j3.m3u8
 
 東京新宿歌舞伎町,https://raw.githubusercontent.com/sem3060/ymk/main/j4.m3u8
 
@@ -84,7 +84,7 @@ viva購物1台,https://raw.githubusercontent.com/sem3060/ymk/main/58.m3u8
 
 富士山河口湖,https://raw.githubusercontent.com/sem3060/ymk/main/j9.m3u8
 
-富士山本栖湖,https://raw.githubusercontent.com/sem3060/ymk/main/j10.m3u8
+秋葉原,https://raw.githubusercontent.com/sem3060/ymk/main/j10.m3u8
 
 富士山中伊豆,https://raw.githubusercontent.com/sem3060/ymk/main/j11.m3u8
 
@@ -98,7 +98,7 @@ viva購物1台,https://raw.githubusercontent.com/sem3060/ymk/main/58.m3u8
 
 大阪道頓堀,https://raw.githubusercontent.com/sem3060/ymk/main/j16.m3u8
 
-熱海,https://raw.githubusercontent.com/sem3060/ymk/main/j17.m3u8
+東伊豆.熱川.片瀬海岸,https://raw.githubusercontent.com/sem3060/ymk/main/j17.m3u8
 
 能登鹿島駅,https://raw.githubusercontent.com/sem3060/ymk/main/j18.m3u8
 
