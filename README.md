@@ -28,7 +28,7 @@ MIT台灣誌,https://raw.githubusercontent.com/sem3060/ymk/main/13.m3u8
 
 第一名網路電視,https://raw.githubusercontent.com/sem3060/ymk/main/14.m3u8
 
-正德電視,https://raw.githubusercontent.com/sem3060/ymk/main/15.m3u8
+公視,https://raw.githubusercontent.com/sem3060/ymk/main/15.m3u8
 
 Disney Junior,https://raw.githubusercontent.com/sem3060/ymk/main/23.m3u8
 
