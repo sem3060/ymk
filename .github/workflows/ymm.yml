@@ -210,7 +210,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/channel/UCiolqpxuocdomP4hPGfn_-A/live)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=_Vlzn9qAHD4)
         EOL
         # 35 momo購物2台
     - name: Get 35.m3u88
@@ -332,7 +332,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=WHEPzbFA3hw)
         EOL   
-        # 58viva購物1台
+        # 58 viva購物1台
     - name: Get 58.m3u8
       run: |
         touch ./58.m3u8
@@ -590,7 +590,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls ,https://www.youtube.com/watch?v=S6yByGMVD5k)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=S6yByGMVD5k)
         EOL 
         # j23 国立天文台
     - name: Get j23.m3u8
