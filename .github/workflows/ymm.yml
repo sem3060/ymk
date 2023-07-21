@@ -32,7 +32,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=TCnaIE_SAtM)
         EOL
-        # 02 華視新聞直播
+        # 02 公視台語台
     - name: Get 02.m3u8
       run: |
         touch ./02.m3u8
@@ -40,7 +40,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=wM0g8EoUZ_E)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=quwqlazU-c8)
         EOL
         # 03 信大電視台	
     - name: Get 03.m3u8
@@ -230,7 +230,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=oV_i3Hsl_zg)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=MIqUplvSRWA)
         EOL
         # 47 大愛二台
     - name: Get 47.m3u8
