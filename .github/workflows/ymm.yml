@@ -172,6 +172,16 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=4Uc00FPs27M)
         EOL			
+         # 16 華視新聞
+    - name: Get 16.m3u8
+      run: |
+        touch ./16.m3u8
+        sudo cat >./16.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=wM0g8EoUZ_E)
+        EOL			
         # 23 Disney Junior
     - name: Get 23.m3u8
       run: |
@@ -320,7 +330,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=QSVlxm1ObkE)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=m_dhMSvUCIc)
         EOL
         # 57 東森財經新聞   	
     - name: Get 57.m3u8
