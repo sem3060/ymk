@@ -482,7 +482,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=Sv9hcJ3k5h4)
         EOL
-        # j10 秋葉原
+        # j10 秋葉原エンタス
     - name: Get j10.m3u8
       run: |
         touch ./j10.m3u8
@@ -490,7 +490,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=p9RxwPgYm7c)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=GXWAylJuSSo)
         EOL		
         # j11 富士山中伊豆
     - name: Get j11.m3u8
@@ -530,7 +530,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=AiPyUWPPsIQ)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=Pk8Q-69MWSU)
         EOL
         # j15 西武新宿駅
     - name: Get j15.m3u8
@@ -572,7 +572,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=25600000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=THy9p2xJSek)
         EOL 
-        # j19 津山城（鶴山公園）
+        # j19 鷲羽山情報カメラ(瀬戸大橋)
     - name: Get j19.m3u8
       run: |
         touch ./j19.m3u8
@@ -580,7 +580,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=R7hyQ1FH4ZI)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=DHpL17mZdIE)
         EOL 
         # j20 富士山平夢 
     - name: Get j20.m3u8
