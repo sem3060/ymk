@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1690548304/ei/8GPDZOHELafeir4P-dalmAU/ip/13.66.11.159/id/DHpL17mZdIE.5/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr3---sn-q4flrnl6.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2Sq6mjZwN9iKaASldECKwsZK09aDg/vprv/1/playlist_type/DVR/initcwndbps/5085000/mh/44/mm/44/mn/sn-q4flrnl6/ms/lva/mv/m/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362685,24363393/beids/24350017/mt/1690526446/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgCtrPFISwKy8MT4H4s5INDO3vlHZC3AOB1-4i_R9gM34CIH3N_yqfotr-23cXCzP6Ow1kQqzfSMAPNORn0CZtFyUc/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgWRzuBWWizpLmKZv2pCgXs4WWFsv8FbL_FADWCJsCheECIQC3aZlAHxrLSlvYGu0aItpO8H5IuQWDWPhSKaqPWltLoA%3D%3D/playlist/index.m3u8
 EOL 
 # j20 富士山平夢 
