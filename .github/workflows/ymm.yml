@@ -550,7 +550,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=4Ek_1UULqq8)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=9hKZQszL0To)
         EOL
         # j17東伊豆.熱川.片瀬海岸
     - name: Get j17.m3u8
@@ -620,7 +620,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=gm-57AcpZhQ)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=76rwjwc07DI)
         EOL		
         # j24 大阪国際空港
     - name: Get j24.m3u8
