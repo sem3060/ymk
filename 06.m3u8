@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698505686/ei/ds88Zd-FBYKQkwacubXwAw/ip/13.88.61.198/id/dZp87qnWelE.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-n4v7sns7.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f10Dv2PtuwQ5UHbijtxoXWFETiI/vprv/1/playlist_type/DVR/mh/ym/mm/44/mn/sn-n4v7sns7/ms/lva/mv/u/mvi/3/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698481242/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRgIhAJ2uEwctHI9GAHpEwT6HvUMQi6lYl_m0R7mdx6169QZyAiEAiRMoMqbRZKD1-MC04ZYNMc3N-1D2_0owF5oeaRKPLwM%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRAIgU_eyUGq4lx_kSJ5WmfR75CxPktz7RJ5v9oply8qUrb0CID28BtGZP2l_QCflRJSkk2K8ciqB546-9RYaxLZyIOU-/playlist/index.m3u8
 EOL	
 # 07桐瑛虎尾電視	

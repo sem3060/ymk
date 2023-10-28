@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698505777/ei/0c88ZeiVBceIsfIPqpqi-Ak/ip/13.88.61.198/id/OrGQEkkEkx4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-o097znsl.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f9N5rISnI9bHNpF4cjM1x64Q8tM/vprv/1/playlist_type/DVR/mh/Z5/mm/44/mn/sn-o097znsl/ms/lva/mv/u/mvi/3/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698481242/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRAIgVTJAqoq85DOlxlKm9Epa0RqpNIti-YtSdMQgU8P2y6MCIGBsMa3xmWRPrPaG-iyx-6LVwm0sv_gGFGGCJUbsWYYo/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRgIhAK4JGSVwFV78aliPIxrc6IGIsr-d3PaO_kV2UMyn31LyAiEArrGZ7GS5-TxN2pSGAlzNUZeBHKZ5JU7cngK_x-e-cIM%3D/playlist/index.m3u8
 EOL		
 # j7 富士山
