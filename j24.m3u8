@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701616209/ei/8UVsZYXkJZjKsfIP-OuwuA4/ip/20.172.43.96/id/QUCq3tBoyK8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr21---sn-ib.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f73awSc6OdQ-CMmDWUjk4rWb4QM/vprv/1/playlist_type/DVR/mh/rJ/mm/44/mn/sn-ib/ms/lva/mv/u/mvi/21/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701593917/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIhAIGWKwtHTv-dzriy5JoNbS9I3zDPeB-o0sJHoKRaZ-DnAiBfO9PQI-_6mZ98P-yHhi6YowjvUrX1cLpZscStnRNGqA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgQ_H_ATeL43MmfwlYU7OXRb7QLxFkoCtT6tXJP15HA3ICIBMvNsWMTagbOwUowtzvyIkZaVGJWZWCj8N3FKEo4ZPh/playlist/index.m3u8
 EOL		
 # j25 博多駅
