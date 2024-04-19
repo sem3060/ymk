@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713582609/ei/sd0iZqXEC8a1sfIP_qSfoAI/ip/52.234.27.5/id/WIhgU_mc05A.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-o097znzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1km8Nk6R5siupKWl0SOHmbb19sNN_1B/vprv/1/playlist_type/DVR/mh/zA/mm/44/mn/sn-o097znzk/ms/lva/mv/u/mvi/2/pl/23/dover/11/pacing/0/keepalive/yes/mt/1713560651/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhALiDZjTQ_eZKKzsancZ52WlBevORXk9fG44ZaG7naoKoAiEAsREl_OvnwAsd9MQihXut07Ic6u6oBLp5IeH9M6YbphI%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgIKeAX81Yit_8pvMMHLLliWxaJz8Agf_oX5fHFuLTDp8CIHZBLMaXXTdTR3gC9p63um-hcJhl60dklzXd1OLqN8gB/playlist/index.m3u8
 EOL	
 # j1东京新宿	
